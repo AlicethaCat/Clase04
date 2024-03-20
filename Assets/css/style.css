@@ -1,0 +1,13 @@
+header h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: lightblue;
+    max-width: 80%;
+    margin: 0 auto;
+    margin-top: 1rem;
+    border-radius: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    
+}
+
